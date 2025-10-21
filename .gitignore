@@ -253,3 +253,4 @@ model_output/*
 #*.pkl
 #*.pickle
 *.csv
+saved_model.pkl
